@@ -20,5 +20,7 @@
   * [销售退货](sell/return.md)
   * [定价策略](sell/pricing.md)
 * [仓库](warehouse/README.md)
+  * [仓库余额表](warehosue/quota.md) 
+  * [呆滞料报表](warehosue/difficult.md) 
 * [财务](finance/README.md)
 * [GSP模块](gsp/README.md)
