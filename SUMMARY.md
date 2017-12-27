@@ -1,5 +1,5 @@
 # Summary
-
+* [介绍](README.md)
 * 人员管理
   * [员工管理](hr/add_user.md)
   * [请假管理](hr/holiday.md)
